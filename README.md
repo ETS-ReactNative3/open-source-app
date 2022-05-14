@@ -1,7 +1,7 @@
 Description:
 Welcome to my open source project!
 It s a react native mobile application meant to be a more well rounded calendar, built using expo framework. 
-For the backend (still in developement ) i will be using nodejs and express.
+For the backend (still in developement ) i will be using nodejs and express. A website version using react is in the works aswell.
 
 
 Contributing:
