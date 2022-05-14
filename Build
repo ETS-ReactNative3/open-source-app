@@ -1,0 +1,11 @@
+Instructions on how to run this app
+
+1) Make sure you have the correct expo version installed (4.0 +) 
+2) Open the code in your code editor of choice.
+3) run npm / yarn install (you only need to this once).
+4) run npm start to execute the code.
+
+
+It is advised that you have an android/IOS emulator or have expo go installed on your smartphone in order to run the app.
+(instructions for android https://developer.android.com/studio/run/emulator)
+(instructions for ios emulator https://developer.apple.com/library/archive/documentation/IDEs/Conceptual/iOS_Simulator_Guide/GettingStartedwithiOSSimulator/GettingStartedwithiOSSimulator.html)
